@@ -1,5 +1,31 @@
 <br />
 <br />
+<header style="display: inline-block;
+               flex-flow: column;
+               flex-direction: column;
+               width: 100%;
+               align-items: center;
+               margin-left: auto;
+               margin-right: auto;"
+>
+<img src="./src/images/tw_brackets.svg"
+     style="display: inline-flex;
+            margin-left: auto;
+            margin-right: auto;
+            width: 3%;"
+ ></img>
+<h4 style="display: inline-flex; 
+           margin-left: 2px;
+           margin-right: auto;
+           font-family: Chango;
+           font-size: 13px;
+           font-weight: 100;
+           text-shadow: 0px 0px 17px #ccc;
+           color: hsla(219, 79%, 66%, 0.998);
+           letter-spacing: 1px;"
+>Team Webelistics®️</h4>
+<br />
+<br />
 <img src="./src/images/imageMaster.png"
 style="display: block; 
            margin-left: auto;
@@ -7,6 +33,9 @@ style="display: block;
            width: 50%;
            rotate: -8deg;"
  ></img>
+</header>
+<br />
+<br />
 <br />
 <br />
 
@@ -22,3 +51,19 @@ style="display: block;
 -   npm install openai
 -   npm i dotenv
 -   npm install express
+
+<br />
+<br />
+<img src="./src/images/tutorial-2.webp"
+style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 50%;
+           rotate: -8deg;"
+ ></img>
+<br />
+<br />
+
+# ![Net Ninja](/src/images/image.png) OpenAI Tutorial #2 - Chat Completion
+
+-   [OpenAI Tutorial (the Basics)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ipdXMDVcGimIVMG_Z6-Vsu)
