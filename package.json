@@ -1,16 +1,25 @@
 {
-	"name": "openaiapi_net_ninja",
-	"version": "1.0.0",
-	"description": "OpenAI API Tutorial with Node & Express",
-	"main": "app.js",
-	"type": "module",
-	"scripts": {
-		"test": "jest"
-	},
-	"author": "Gordon R Mullen Jr <webelistics@gmail.com>",
-	"license": "MIT",
-	"dependencies": {
-		"dotenv": "^16.3.1",
-		"openai": "^4.3.0"
-	}
+    "name": "openaiapi_net_ninja",
+    "version": "1.0.0",
+    "description": "OpenAI API Tutorial with Node & Express",
+    "main": "app.js",
+    "type": "module",
+    "scripts": {
+        "test": "jest",
+        "dev": "node app.js",
+        "start": "npm run dev"
+    },
+    "author": "Gordon R Mullen Jr <webelistics@gmail.com>",
+    "license": "MIT",
+    "dependencies": {
+        "chalk": "^5.3.0",
+        "cors": "^2.8.5",
+        "dotenv": "^16.3.1",
+        "express": "^4.18.2",
+        "morgan": "^1.10.0",
+        "openai": "^4.3.0"
+    },
+    "devDependencies": {
+        "open": "^9.1.0"
+    }
 }

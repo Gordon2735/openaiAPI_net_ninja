@@ -51,6 +51,10 @@ style="display: block;
 -   npm install openai
 -   npm i dotenv
 -   npm install express
+-   npm i open -D
+-   npm i morgan
+-   npm i cors
+-   npm i chalk
 
 <br />
 <br />
@@ -67,3 +71,58 @@ style="display: block;
 # ![Net Ninja](/src/images/image.png) OpenAI Tutorial #2 - Chat Completion
 
 -   [OpenAI Tutorial (the Basics)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ipdXMDVcGimIVMG_Z6-Vsu)
+
+<br />
+<br />
+
+<img src="./src/images/tutorial-3.webp"
+style="display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+rotate: -8deg;"></img>
+
+<br />
+<br />
+
+# ![Net Ninja](/src/images/image.png) OpenAI Tutorial #3 - Image Generation
+
+-   In this OpenAI tutorial series you'll learn the basics of how to leverage AI to make small application that generates text and images.
+-   [OpenAI Tutorial#3](https://www.youtube.com/watch?v=-VLUQTOnmMY&t=9s)
+    <br />
+    <br />
+
+<img src="./src/images/tutorial-5.webp"
+style="display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+rotate: -8deg;"></img>
+
+<br />
+<br />
+
+# ![Net Ninja](/src/images/image.png) OpenAI Tutorial #4 - Making an Express API
+
+-   In this OpenAI tutorial series you'll learn the basics of how to leverage AI to make small application that generates text and images.
+-   [OpenAI Tutorial#4](https://www.youtube.com/watch?v=ynyohARvZD4&t=5s)
+-   [ Access the course files on GitHub:](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqazJOOUxPT2RIVWl2VU5BWHJORmdScThkRENrQXxBQ3Jtc0tra24wZkRTa3dnN2l3bmVMUndTZlkyUGpPT29Jbkd6d2RJenMxYUI0dlZ2ajNWUjJQaGdJM0pzNmUweWFOenNuNktVYXJjdHVKNnRQSkt0ZERmeXpZQkRFN0dhOWw4U2o3WGhGMEJnR09YNkcweTBOWQ&q=https%3A%2F%2Fgithub.com%2Fiamshaunjp%2FopenAI-basics&v=ynyohARvZD4)
+    <br />
+    <br />
+
+<img src="./src/images/tutorial-5.webp"
+style="display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+rotate: -8deg;"></img>
+
+<br />
+<br />
+
+# ![Net Ninja](/src/images/image.png) OpenAI Tutorial #5 - Adding a Frontend
+
+-   In this OpenAI tutorial series you'll learn the basics of how to leverage AI to make small application that generates text and images.
+-   [OpenAI Tutorial#5](https://www.youtube.com/watch?v=2RXu31Clpmk)
+-
+-   [ Access the course files on GitHub:](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqazJOOUxPT2RIVWl2VU5BWHJORmdScThkRENrQXxBQ3Jtc0tra24wZkRTa3dnN2l3bmVMUndTZlkyUGpPT29Jbkd6d2RJenMxYUI0dlZ2ajNWUjJQaGdJM0pzNmUweWFOenNuNktVYXJjdHVKNnRQSkt0ZERmeXpZQkRFN0dhOWw4U2o3WGhGMEJnR09YNkcweTBOWQ&q=https%3A%2F%2Fgithub.com%2Fiamshaunjp%2FopenAI-basics&v=ynyohARvZD4)
