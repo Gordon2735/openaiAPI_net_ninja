@@ -7,7 +7,7 @@ import indexRouteHandler, {
     openaiImagePostHandler
 } from './routeHandlers.js';
 
-let router = express.Router();
+const router = express.Router();
 
 const indexRoute = router
     .get('/', indexRouteHandler)
